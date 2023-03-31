@@ -18,4 +18,4 @@ sudo rm -rf /etc/ceph \
        /var/log/kube-audit \
        /var/log/pods \
        /var/run/calico
-rm -R ~/.kube/*       
+rm -R /home/dkube/.kube/*       
